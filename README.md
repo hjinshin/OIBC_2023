@@ -1,5 +1,5 @@
 # 2023 POSTECH X DERShare OIBC 태양광 발전입찰 경진대회
-![img.png](img.png)
+![img](https://github.com/hjinshin/OIBC_2023/assets/101383098/13d4344a-7f67-4e50-9392-87201e9f4aef)
 [2023 POSTECH OIBC CHALLENGE 태양광 발전량 예측 경진대회](https://o.solarkim.com/cmpt2023)에서 대상 (1등/73팀)을 받은 김최신이팀의 소스코드 및 발표자료
 
 ## 김최신이 팀
