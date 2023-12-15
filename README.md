@@ -32,7 +32,7 @@ root
 │
 ├── README.md                                    # 디렉토리 안내 파일
 │
-├── 2023_OIBC_KCSL.pdf                           # 발표 자료
+├── 2023_OIBC_KCSL.pptx                          # 발표 자료
 │
 ├── data/                                        # 데이터 폴더
 │   ├── gens.csv                                 # 과거 발전량 데이터
